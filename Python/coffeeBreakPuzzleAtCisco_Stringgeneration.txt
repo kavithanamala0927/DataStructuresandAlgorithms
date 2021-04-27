@@ -1,0 +1,22 @@
+10
+24 6
+6 9
+80 8
+38 17
+2 8
+22 16
+81 12
+3 7
+40 15
+2 1	
+
+No such string.
+No such string.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbcddeffghh
+No such string.
+No such string.
+No such string.
+No such string.
+No such string.
+aaaaaaaaaaaaaaaaaaabbcddeffghhijjkllmnno
+No such string
